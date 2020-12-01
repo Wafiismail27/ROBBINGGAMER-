@@ -1,5 +1,5 @@
-# RGEarnfreemoneyBot - chat bot
-It is repository for chat bot: [@RGEarnfreemoneyBot](https://t.me/RGEarnfreemoneyBot)
+# Cloned bot: Atron_V1_Bot - chat bot
+It is repository for chat bot: [@Cloned bot: Atron_V1_Bot](https://t.me/Cloned bot: Atron_V1_Bot)
 
 ## What it is?
 This repository can be imported to [Bots.Business](https://bots.business) as a worked chat bot.
